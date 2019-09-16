@@ -1,2 +1,0 @@
-# bootstrap
-this is bootstrap
